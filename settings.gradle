@@ -1,0 +1,3 @@
+rootProject.name='CustomToast'
+include ':app'
+include ':customtoast'
