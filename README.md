@@ -24,7 +24,7 @@ Add this to your app level build.gradle file
 
 ```
 dependencies {
-	        implementation 'com.github.ashishpujari204:CustomToast:Tag'
+	        implementation 'com.github.ashishpujari204:CustomToast:1.1'
 	}
   ```
   
