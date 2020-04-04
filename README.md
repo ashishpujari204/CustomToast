@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Support-Linkedin-brightgreen)](https://in.linkedin.com/in/ashish-pujari-b2655166)
 # Project Title 
 
-CustomToast : Custom Toast is simple tosat message library.
+CustomToast : Custom Toast is a simple toast message library.
 
 # Prerequisites
 
@@ -20,7 +20,7 @@ Add this in your root build.gradle file
  ```
 # Dependency
 
-Add this to your app level build.gradle file
+Add this to your app-level build.gradle file
 
 ```
 dependencies {
