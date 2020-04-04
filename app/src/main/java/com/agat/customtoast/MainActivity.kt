@@ -18,15 +18,19 @@ class MainActivity : AppCompatActivity() {
 
 
     fun showInfoToast(view: View) {
-        //CustomToastClass.showInfoToast(this@MainActivity,"Ashish  Pujari",ResourcesCompat.getFont(context,R.font.google_sans_regular),Toast.LENGTH_LONG)
+        CustomToastClass.showInfoToast(this@MainActivity,"Ashish  Pujari",ResourcesCompat.getFont(context,R.font.google_sans_regular))
     }
     fun showErrorToast(view: View) {
-        //CustomToastClass.showErrorToast(this@MainActivity,"Error",ResourcesCompat.getFont(context,R.font.google_sans_regular),Toast.LENGTH_LONG)
+        CustomToastClass.showErrorToast(this@MainActivity,"Error",ResourcesCompat.getFont(context,R.font.google_sans_regular))
     }
     fun showWarning(view: View) {
-        //CustomToastClass.showWarningToast(this@MainActivity,"Warning",ResourcesCompat.getFont(context,R.font.google_sans_regular),Toast.LENGTH_LONG)
+        CustomToastClass.showWarningToast(this@MainActivity,"Warning",ResourcesCompat.getFont(context,R.font.google_sans_regular))
     }
     fun showSuccess(view: View) {
-        //CustomToastClass.showSuccessToast(this@MainActivity,"Success",ResourcesCompat.getFont(context,R.font.google_sans_regular),Toast.LENGTH_LONG)
+        CustomToastClass.showSuccessToast(this@MainActivity,"Success",ResourcesCompat.getFont(context,R.font.google_sans_regular))
+    }
+
+    fun showDefaultToast(view: View) {
+        CustomToastClass.showDefaultToast(this@MainActivity,"Default",ResourcesCompat.getFont(context,R.font.google_sans_regular))
     }
 }
