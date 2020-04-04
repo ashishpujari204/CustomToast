@@ -1,4 +1,4 @@
-
+[![](https://jitpack.io/v/ashishpujari204/CustomToast.svg)](https://jitpack.io/#ashishpujari204/CustomToast)
 [![](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![](https://img.shields.io/badge/Support-Linkedin-brightgreen)](https://in.linkedin.com/in/ashish-pujari-b2655166)
