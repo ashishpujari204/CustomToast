@@ -26,8 +26,8 @@ dependencies {
 	}
   ```
   
- #Usage
- 
+ # Usage
+  
  To display an default Toast:
  ```
  CustomToastClass.showDefaultToast(this@MainActivity,"Default Toast", ResourcesCompat.getFont(this@MainActivity, R.font.google_sans_regular))
@@ -52,7 +52,8 @@ dependencies {
  ```
  CustomToastClass.showErrorToast(this@MainActivity,"Error Toast", ResourcesCompat.getFont(this@MainActivity, R.font.google_sans_regular))
  ```
-#Screenshots
+ 
+# Screenshots
 
 Please check below screen shots.
 ![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/default.jpg "Default Toast")
@@ -61,9 +62,29 @@ Please check below screen shots.
 ![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/warning.jpg "Warning Toast")
 ![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/error.jpg "Error Toast")
 
-#Contributing
+
+# Contributing
 
 Please fork this repository and contribute back using (https://github.com/ashishpujari204/CustomToast) 
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed .
 
+# Licenses
+
+* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+```
+Copyright [2020] [Ashish Pujari]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
