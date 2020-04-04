@@ -52,3 +52,18 @@ dependencies {
  ```
  CustomToastClass.showErrorToast(this@MainActivity,"Error Toast", ResourcesCompat.getFont(this@MainActivity, R.font.google_sans_regular))
  ```
+#Screenshots
+
+Please check below screen shots.
+![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/default.jpg "Default Toast")
+![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/success.jpg "Success Toast")
+![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/info.jpg "Info Toast")
+![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/warning.jpg "Warning Toast")
+![Alt text](https://github.com/ashishpujari204/CustomToast/blob/staging/error.jpg "Error Toast")
+
+#Contributing
+
+Please fork this repository and contribute back using (https://github.com/ashishpujari204/CustomToast) 
+
+Any contributions, large or small, major features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed .
+
